@@ -1,13 +1,13 @@
-## Propject Proposal
-# Introduction 
+# Propject Proposal
+## Introduction 
 Text
-# Why It Matters
+## Why It Matters
 Text
-# Spatial Scop
+## Spatial Scop
 Text
-# Data Sources
+## Data Sources
 Text
-# Analysis and Visualizations
+## Analysis and Visualizations
 Text
-# Conclusion
+## Conclusion
 Text

@@ -1,7 +1,10 @@
 # Project Proposal
+
+*Updated: 11/1/2021*
+
 ## Introduction 
 
-For this quarter, I would like to better understand the use of Overnight Parking Districts (OPDs) as a form of anti-homeless policy. Specifically, I would like to better understand the interaction of observed patterns of vehicle dwelling, the adoption of OPDs, the location of safe parking sites, and neighborhood socioeconomic characteristics. 
+For this quarter, I am trying to better understand the use of Overnight Parking Districts (OPDs) as a form of anti-homeless policy. Specifically, I am interested in the interaction of observed patterns of vehicle dwelling, the adoption of OPDs, the location of safe parking sites, and neighborhood socioeconomic characteristics. 
 
 ## Why It Matters
 Los Angeles is in the grip of an ongoing housing shortage, which has in turn resulted in ever rising rents and home prices. As a result, an estimated [66,000](https://laist.com/news/homeless-increase-los-angeles-2020) Angelenos are homeless; of this population, approximately [16,000](https://www.latimes.com/local/lanow/la-me-homeless-safe-parking-los-angeles-20190610-story.html) sleep in their car. While “vehicle dwelling,” as participants refer to the practice, is a marked improvement over street homelessness, it nonetheless leaves the person at risk of crime and police harassment and with limited access to basic services. Over the summer, I briefly joined their ranks, a lifestyle choice that started as an experiment and ended as a necessity. 
@@ -19,15 +22,15 @@ The spatial scope of this particular project is Los Angeles. In the future, I ho
 There are four big piece of data:
 * A [census tract](https://censusreporter.org/data/table/?table=B19013&geo_ids=16000US0644000,140|16000US0644000&primary_geo_id=16000US0644000) map of Los Angeles, to which I can join ACS data covering median household income, population density, racial breakdown, and share of households without a car, among other possible variables.
 * A map of existing [Overnight Parking Districts](https://data.lacity.org/Transportation/LADOT-Overnight-Parking-Districts/jk9n-burj), and if I can find it, a map of over oversize vehicle prohibitions.
-* A map of existing safe parking sites. I don’t believe this exists, but it wouldn’t be too much trouble to make it, as there are only [six](https://www.lahsa.org/news?article=592-safe-parking) currently in operation.
-* Recent [homeless count](https://geohub.lacity.org/datasets/homeless-count-by-council-district-2019/explore?location=33.807914%2C-118.298788%2C8.68) data. Earlier iterations distinguished whether the person counted was a vehicle dweller. I should see if they are still collecting this data but simply not releasing it. 
+* A map of existing safe parking sites. I don’t believe this exists, but it wouldn’t be too much trouble to make it, as there are only [six](https://www.lahsa.org/news?article=592-safe-parking) currently in operation. *Update: This map still needs to be made*
+* 2020 [homeless count](https://www.lahsa.org/documents?id=4697-2020-homeless-count-data-by-census-tract) data. 
 
 ## Analysis and Visualizations
 
 This project will have three major components:
-1. A background survey of the history of vehicle dwelling and policy responses in Los Angeles.
-2. An analysis tying the four factors discussed above to each census tract and test for relationships. For example, do socioeconmic factors predict the adoption of an OPD? Do high rates of vehicle dwelling help to explain the siting of safe parking areas? 
-3. Maps illustrating patterns of vehicle dwelling and the location of safe parking sites and various relevant overnight and oversized vehicle parking districts.
+1. A background survey of the history of vehicle dwelling and policy responses in Los Angeles. 
+2. An analysis tying the factors discussed above to each census tract and test for relationships. For example, do socioeconmic factors predict the adoption of an OPD? Do high rates of vehicle dwelling help to explain the siting of safe parking areas? *Update: Preliminary mapping is done. Now to test for significance.*
+3. Maps illustrating patterns of vehicle dwelling and the location of safe parking sites and various relevant overnight and oversized vehicle parking districts. *Update: Still need safe parking sites*
 
 ## Conclusion
 

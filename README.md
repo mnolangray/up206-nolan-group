@@ -1,4 +1,4 @@
-# Propject Proposal
+# Project Proposal
 ## Introduction 
 
 For this quarter, I would like to better understand the use of Overnight Parking Districts (OPDs) as a form of anti-homeless policy. Specifically, I would like to better understand the interaction of observed patterns of vehicle dwelling, the adoption of OPDs, the location of safe parking sites, and neighborhood socioeconomic characteristics. 
